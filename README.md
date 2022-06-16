@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ignGeri
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning JavaScript
-- 📫 Discord: cnamew#9993
+- Hai
